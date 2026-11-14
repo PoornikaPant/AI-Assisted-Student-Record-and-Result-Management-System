@@ -1,0 +1,600 @@
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID: Enter Roll No.: Enter name: Enter 10-digit phone number: Enter email ID: Enter year (1-4): Enter current semester: Enter SGPA for each semester (0-10), or -1 if not available.
+  SGPA for semester 1:   SGPA for semester 2:   SGPA for semester 3:   SGPA for semester 4:   SGPA for semester 5:   SGPA for semester 6:   SGPA for semester 7:   SGPA for semester 8: Student added successfully. Total students stored: 1
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID: Enter Roll No.: Enter name: Enter 10-digit phone number: Enter email ID: Enter year (1-4): Enter current semester: Enter SGPA for each semester (0-10), or -1 if not available.
+  SGPA for semester 1:   SGPA for semester 2:   SGPA for semester 3:   SGPA for semester 4:   SGPA for semester 5:   SGPA for semester 6:   SGPA for semester 7:   SGPA for semester 8: Student added successfully. Total students stored: 2
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID: Enter Roll No.: Enter name: Enter 10-digit phone number: Enter email ID: Enter year (1-4): Enter current semester: Enter SGPA for each semester (0-10), or -1 if not available.
+  SGPA for semester 1:   SGPA for semester 2:   SGPA for semester 3:   SGPA for semester 4:   SGPA for semester 5:   SGPA for semester 6:   SGPA for semester 7:   SGPA for semester 8: Student added successfully. Total students stored: 3
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID: Enter Roll No.: Enter name: Enter 10-digit phone number: Enter email ID: Enter year (1-4): Enter current semester: Enter SGPA for each semester (0-10), or -1 if not available.
+  SGPA for semester 1:   SGPA for semester 2:   SGPA for semester 3:   SGPA for semester 4:   SGPA for semester 5:   SGPA for semester 6:   SGPA for semester 7:   SGPA for semester 8: Student added successfully. Total students stored: 4
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID: Enter Roll No.: Enter name: Enter 10-digit phone number: Enter email ID: Enter year (1-4): Enter current semester: Enter SGPA for each semester (0-10), or -1 if not available.
+  SGPA for semester 1:   SGPA for semester 2:   SGPA for semester 3:   SGPA for semester 4:   SGPA for semester 5:   SGPA for semester 6:   SGPA for semester 7:   SGPA for semester 8: Student added successfully. Total students stored: 5
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID: CGPA of Aarav Sharma: 9.25
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Year 1 average CGPA: 6.65 (1 students)
+Year 2 average CGPA: 8.43 (2 students)
+Year 3 average CGPA: 9.25 (1 students)
+Year 4 average CGPA: 5.13 (1 students)
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID to search: SAP ID   : 50001002
+Roll No. : R002
+Name     : Bhavna Singh
+Phone    : 9876501234
+Email    : bhavna@example.com
+Year     : 2nd
+Semester : 4
+SGPA Sem 1: 8.10
+SGPA Sem 2: 7.90
+SGPA Sem 3: 8.30
+SGPA Sem 4: 7.80
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.02
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: 
+---------- Student 1 ----------
+SAP ID   : 50001001
+Roll No. : R001
+Name     : Aarav Sharma
+Phone    : 9876543210
+Email    : aarav@example.com
+Year     : 3rd
+Semester : 6
+SGPA Sem 1: 9.20
+SGPA Sem 2: 9.40
+SGPA Sem 3: 9.00
+SGPA Sem 4: 9.50
+SGPA Sem 5: 9.30
+SGPA Sem 6: 9.10
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 9.25
+
+---------- Student 2 ----------
+SAP ID   : 50001002
+Roll No. : R002
+Name     : Bhavna Singh
+Phone    : 9876501234
+Email    : bhavna@example.com
+Year     : 2nd
+Semester : 4
+SGPA Sem 1: 8.10
+SGPA Sem 2: 7.90
+SGPA Sem 3: 8.30
+SGPA Sem 4: 7.80
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.02
+
+---------- Student 3 ----------
+SAP ID   : 50001003
+Roll No. : R003
+Name     : Chirag Rawat
+Phone    : 9123456780
+Email    : chirag@example.com
+Year     : 1st
+Semester : 2
+SGPA Sem 1: 6.50
+SGPA Sem 2: 6.80
+SGPA Sem 3: N/A
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 6.65
+
+---------- Student 4 ----------
+SAP ID   : 50001004
+Roll No. : R004
+Name     : Divya Negi
+Phone    : 9988776655
+Email    : divya@example.com
+Year     : 4th
+Semester : 7
+SGPA Sem 1: 5.20
+SGPA Sem 2: 4.80
+SGPA Sem 3: 5.50
+SGPA Sem 4: 5.00
+SGPA Sem 5: 5.40
+SGPA Sem 6: 5.10
+SGPA Sem 7: 4.90
+SGPA Sem 8: N/A
+CGPA     : 5.13
+
+---------- Student 5 ----------
+SAP ID   : 50001005
+Roll No. : R005
+Name     : Esha Bisht
+Phone    : 9012345678
+Email    : esha@example.com
+Year     : 2nd
+Semester : 3
+SGPA Sem 1: 8.80
+SGPA Sem 2: 9.10
+SGPA Sem 3: 8.60
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.83
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Records in increasing order of SAP ID:
+
+---------- Student 1 ----------
+SAP ID   : 50001001
+Roll No. : R001
+Name     : Aarav Sharma
+Phone    : 9876543210
+Email    : aarav@example.com
+Year     : 3rd
+Semester : 6
+SGPA Sem 1: 9.20
+SGPA Sem 2: 9.40
+SGPA Sem 3: 9.00
+SGPA Sem 4: 9.50
+SGPA Sem 5: 9.30
+SGPA Sem 6: 9.10
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 9.25
+
+---------- Student 2 ----------
+SAP ID   : 50001002
+Roll No. : R002
+Name     : Bhavna Singh
+Phone    : 9876501234
+Email    : bhavna@example.com
+Year     : 2nd
+Semester : 4
+SGPA Sem 1: 8.10
+SGPA Sem 2: 7.90
+SGPA Sem 3: 8.30
+SGPA Sem 4: 7.80
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.02
+
+---------- Student 3 ----------
+SAP ID   : 50001003
+Roll No. : R003
+Name     : Chirag Rawat
+Phone    : 9123456780
+Email    : chirag@example.com
+Year     : 1st
+Semester : 2
+SGPA Sem 1: 6.50
+SGPA Sem 2: 6.80
+SGPA Sem 3: N/A
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 6.65
+
+---------- Student 4 ----------
+SAP ID   : 50001004
+Roll No. : R004
+Name     : Divya Negi
+Phone    : 9988776655
+Email    : divya@example.com
+Year     : 4th
+Semester : 7
+SGPA Sem 1: 5.20
+SGPA Sem 2: 4.80
+SGPA Sem 3: 5.50
+SGPA Sem 4: 5.00
+SGPA Sem 5: 5.40
+SGPA Sem 6: 5.10
+SGPA Sem 7: 4.90
+SGPA Sem 8: N/A
+CGPA     : 5.13
+
+---------- Student 5 ----------
+SAP ID   : 50001005
+Roll No. : R005
+Name     : Esha Bisht
+Phone    : 9012345678
+Email    : esha@example.com
+Year     : 2nd
+Semester : 3
+SGPA Sem 1: 8.80
+SGPA Sem 2: 9.10
+SGPA Sem 3: 8.60
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.83
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Records in increasing order of name:
+
+---------- Student 1 ----------
+SAP ID   : 50001001
+Roll No. : R001
+Name     : Aarav Sharma
+Phone    : 9876543210
+Email    : aarav@example.com
+Year     : 3rd
+Semester : 6
+SGPA Sem 1: 9.20
+SGPA Sem 2: 9.40
+SGPA Sem 3: 9.00
+SGPA Sem 4: 9.50
+SGPA Sem 5: 9.30
+SGPA Sem 6: 9.10
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 9.25
+
+---------- Student 2 ----------
+SAP ID   : 50001002
+Roll No. : R002
+Name     : Bhavna Singh
+Phone    : 9876501234
+Email    : bhavna@example.com
+Year     : 2nd
+Semester : 4
+SGPA Sem 1: 8.10
+SGPA Sem 2: 7.90
+SGPA Sem 3: 8.30
+SGPA Sem 4: 7.80
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.02
+
+---------- Student 3 ----------
+SAP ID   : 50001003
+Roll No. : R003
+Name     : Chirag Rawat
+Phone    : 9123456780
+Email    : chirag@example.com
+Year     : 1st
+Semester : 2
+SGPA Sem 1: 6.50
+SGPA Sem 2: 6.80
+SGPA Sem 3: N/A
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 6.65
+
+---------- Student 4 ----------
+SAP ID   : 50001004
+Roll No. : R004
+Name     : Divya Negi
+Phone    : 9988776655
+Email    : divya@example.com
+Year     : 4th
+Semester : 7
+SGPA Sem 1: 5.20
+SGPA Sem 2: 4.80
+SGPA Sem 3: 5.50
+SGPA Sem 4: 5.00
+SGPA Sem 5: 5.40
+SGPA Sem 6: 5.10
+SGPA Sem 7: 4.90
+SGPA Sem 8: N/A
+CGPA     : 5.13
+
+---------- Student 5 ----------
+SAP ID   : 50001005
+Roll No. : R005
+Name     : Esha Bisht
+Phone    : 9012345678
+Email    : esha@example.com
+Year     : 2nd
+Semester : 3
+SGPA Sem 1: 8.80
+SGPA Sem 2: 9.10
+SGPA Sem 3: 8.60
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.83
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID for academic advice: Student: Aarav Sharma | CGPA: 9.25
+Excellent Performance: Maintain your current study pattern.
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID for academic advice: Student: Bhavna Singh | CGPA: 8.02
+Good Performance: Keep practicing and aim higher.
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID for academic advice: Student: Chirag Rawat | CGPA: 6.65
+Needs Improvement: Focus on subjects with lower SGPA.
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID for academic advice: Student: Divya Negi | CGPA: 5.13
+Requires Immediate Attention: Make a study schedule and seek faculty guidance.
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Enter SAP ID to delete: Student deleted successfully.
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: 
+---------- Student 1 ----------
+SAP ID   : 50001001
+Roll No. : R001
+Name     : Aarav Sharma
+Phone    : 9876543210
+Email    : aarav@example.com
+Year     : 3rd
+Semester : 6
+SGPA Sem 1: 9.20
+SGPA Sem 2: 9.40
+SGPA Sem 3: 9.00
+SGPA Sem 4: 9.50
+SGPA Sem 5: 9.30
+SGPA Sem 6: 9.10
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 9.25
+
+---------- Student 2 ----------
+SAP ID   : 50001002
+Roll No. : R002
+Name     : Bhavna Singh
+Phone    : 9876501234
+Email    : bhavna@example.com
+Year     : 2nd
+Semester : 4
+SGPA Sem 1: 8.10
+SGPA Sem 2: 7.90
+SGPA Sem 3: 8.30
+SGPA Sem 4: 7.80
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 8.02
+
+---------- Student 3 ----------
+SAP ID   : 50001003
+Roll No. : R003
+Name     : Chirag Rawat
+Phone    : 9123456780
+Email    : chirag@example.com
+Year     : 1st
+Semester : 2
+SGPA Sem 1: 6.50
+SGPA Sem 2: 6.80
+SGPA Sem 3: N/A
+SGPA Sem 4: N/A
+SGPA Sem 5: N/A
+SGPA Sem 6: N/A
+SGPA Sem 7: N/A
+SGPA Sem 8: N/A
+CGPA     : 6.65
+
+---------- Student 4 ----------
+SAP ID   : 50001004
+Roll No. : R004
+Name     : Divya Negi
+Phone    : 9988776655
+Email    : divya@example.com
+Year     : 4th
+Semester : 7
+SGPA Sem 1: 5.20
+SGPA Sem 2: 4.80
+SGPA Sem 3: 5.50
+SGPA Sem 4: 5.00
+SGPA Sem 5: 5.40
+SGPA Sem 6: 5.10
+SGPA Sem 7: 4.90
+SGPA Sem 8: N/A
+CGPA     : 5.13
+
+========== STUDENT RECORD MANAGEMENT SYSTEM (FINAL v3) ==========
+1. Add Student
+2. Search Student
+3. Calculate Student CGPA
+4. Display Average CGPA by Year
+5. Display All Students
+6. Delete Student
+7. Display Students by SAP ID (increasing)
+8. Display Students by Name (increasing)
+9. AI-Assisted Academic Advisor
+10. Exit
+Enter your choice: Thank you! Goodbye.
