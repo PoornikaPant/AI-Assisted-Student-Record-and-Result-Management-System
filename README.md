@@ -1,4 +1,4 @@
-# Student Record AI C
+# AI-Assisted Student Record and Result Management System
 
 Console-based, menu-driven **AI-Assisted Student Record and Result Management System** written in C.
 
