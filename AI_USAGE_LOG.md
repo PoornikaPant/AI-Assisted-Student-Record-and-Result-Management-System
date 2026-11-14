@@ -1,0 +1,10 @@
+# AI Usage Log
+
+| AI Tool | Prompt / Question Asked | How I Used / Verified the Response |
+|---------|-------------------------|------------------------------------|
+| Claude | **Debugging:** Pasted part of my C student-record code and asked it to correct it. | It found that the code was incomplete and fixed it, adding safe input checking with `fgets` and `strtol`. I compiled it with gcc in VS Code and ran it to confirm it works. |
+| Claude | **Debugging:** Asked why my program gave no output and why the compiler showed errors (file name with brackets, wrong command, saved students not showing). | It explained the cause of each problem (file naming, commands typed together, running an old version). I fixed each one and ran the program again. |
+| Claude | **Debugging:** My `.c` file showed "binary or unsupported encoding" in VS Code and the program gave no output. | It explained that my file was named `590032465.c.c`, so the Run button compiled the program over my source file. I renamed the file to `590032465.c`, restored the code, and compiled and ran it again successfully. |
+| Claude | **Test cases:** Asked for sample students and CGPA cases that cover the advisor categories. | Used 5 sample students giving CGPAs of 9.25, 8.03, 6.65 and 5.13, and checked one by hand: (9.2+9.4+9.0+9.5+9.3+9.1)/6 = 9.25. |
+| Claude | **Test cases:** Asked for a quick test case to check that adding and displaying a student works (SAP ID 50001001, SGPA 8.5 for semester 1, -1 for the other semesters). | Entered the values in the program, checked that "Student added successfully" appeared, and used option 5 to confirm the student and CGPA 8.50 were displayed correctly. |
+| Claude | **Documentation:** Asked for a title and description for my GitHub Issue and for clear commit messages (Initial C program, Student record functions, Sorting/CGPA functions, AI-assisted advisor + documentation). | Used the suggested Issue text ("Test search function") and commit messages, then tested search with an existing and a non-existing SAP ID and closed the Issue. |
