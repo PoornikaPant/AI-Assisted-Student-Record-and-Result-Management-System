@@ -1,4 +1,6 @@
-
+/*Name-Poornika Pant
+SAP ID- 590032465
+Batch-20*/
 
 #include <stdio.h>
 #include <stdlib.h>
